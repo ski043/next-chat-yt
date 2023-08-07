@@ -1,3 +1,12 @@
+## Please install the following packages:
+```bash
+npm i @auth/prisma-adapter @prisma/client next-auth pusher pusher-js
+
+npm i -D prisma
+```
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
